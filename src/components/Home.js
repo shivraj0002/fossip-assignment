@@ -241,7 +241,7 @@ const Home = () => {
                 backgroundColor: 'lightgray',
             }}>
                 <Container maxWidth="lg" >
-                    <Box display="flex" width={"100%"} justifyContent={'space-evenly'} alignItems={'center'} >
+                    <Box display="flex" width={"100%"} flexDirection={{ xs: 'column', md: 'row' }} justifyContent={'space-evenly'} alignItems={'center'} >
                         <Box width={"40%"} >
                             <Typography variant="h6" component="h6" sx={{
                                 margin: "5px 10px",
@@ -252,7 +252,7 @@ const Home = () => {
                                 For better experience,download the FOSSIP app now
                             </Typography>
                         </Box>
-                        <Box display="flex" width={"40%"} justifyContent={'space-between'}>
+                        <Box display="flex" width={"40%"} flexDirection={{ xs: 'column', md: 'row' }} justifyContent={'space-between'}>
                             <img src={playstore} alt="playstore icon" style={{
                                 borderRadius: "15px"
                             }} />
