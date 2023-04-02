@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/fossip-assignment/static/css/main.e6c13ad2.css",
+    "main.js": "/fossip-assignment/static/js/main.1af3c623.js",
+    "static/js/787.31ba6b4a.chunk.js": "/fossip-assignment/static/js/787.31ba6b4a.chunk.js",
+    "static/media/3d-food-icon.webp": "/fossip-assignment/static/media/3d-food-icon.12f5fa5ab2989ac0939a.webp",
+    "static/media/curve-icon.png": "/fossip-assignment/static/media/curve-icon.ef4b30c2521bee9b9d13.png",
+    "static/media/fossip-logo.svg": "/fossip-assignment/static/media/fossip-logo.a3297c6c11bcb518c30daa6b4304b993.svg",
+    "index.html": "/fossip-assignment/index.html",
+    "main.e6c13ad2.css.map": "/fossip-assignment/static/css/main.e6c13ad2.css.map",
+    "main.1af3c623.js.map": "/fossip-assignment/static/js/main.1af3c623.js.map",
+    "787.31ba6b4a.chunk.js.map": "/fossip-assignment/static/js/787.31ba6b4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1af3c623.js"
+  ]
+}
